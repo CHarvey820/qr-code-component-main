@@ -27,5 +27,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Caitlin Harvey](charvey820.github.io/)
+- Website - [Caitlin Harvey](https://charvey820.github.io/)
 - Frontend Mentor - [@CHarvey820](https://www.frontendmentor.io/profile/CHarvey820)
